@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: a7ec4037d1745f340b49a03865ad34fa
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - lightOrbPrefab: {fileID: 6166314947074225058, guid: 345431013309a4548b05e65dedee277e, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

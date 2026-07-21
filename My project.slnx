@@ -1,0 +1,5 @@
+﻿<Solution>
+  <Project Path="Unity.2D.Sprite.Editor.csproj" />
+  <Project Path="Assembly-CSharp.csproj" />
+  <Project Path="Unity.2D.Sprite.Package.EditorTests.csproj" />
+</Solution>
